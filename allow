@@ -145,6 +145,7 @@
 3d-creator.sonymobile.com
 3dns-2.adobe.com
 3dns-3.adobe.com
+3dns-3.adobe.cytm.com
 3gdl.tcdn.qq.com
 3p.ampproject.net
 3t.org
@@ -1749,7 +1750,6 @@ assets17.ign.com
 assets2.adobe.com
 assets7.ign.com
 assetscdn.paytm.com
-assetscdn1.paytm.com
 assistant.pandora.xiaomi.com
 assistant.search.xiaomi.net
 assoc-amazon.ca
@@ -2066,7 +2066,6 @@ blocklists.settings.services.mozilla.org
 blog-at.line.me
 blog-cdn.feedspot.com
 blog-cdn2.feedspot.com
-blog-cms.line.me
 blog.appsumo.com
 blog.bit.ly
 blog.bitfinex.com
@@ -7375,6 +7374,7 @@ office365.com
 officeclient.microsoft.com
 officedepot.com
 official-blog.line.me
+og-cms.line.me
 ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
