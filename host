@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-07-05
+# Last update: 2025-07-06
 #
-# Number of domains: 88937
+# Number of domains: 88959
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -426,6 +426,7 @@
 0.0.0.0  1betandgonow.com
 0.0.0.0  1bliq.io
 0.0.0.0  1bm3n8sld.de
+0.0.0.0  1bpmtrvkqkj.pettoonies.com
 0.0.0.0  1buo.icu
 0.0.0.0  1bw7etm93lf.www.woodbrass.com
 0.0.0.0  1c0c3fde9d.com
@@ -1613,6 +1614,7 @@
 0.0.0.0  777partner.net
 0.0.0.0  777partners.com
 0.0.0.0  778669.com
+0.0.0.0  77886044.xyz
 0.0.0.0  7791.com.cn
 0.0.0.0  7794.com
 0.0.0.0  77ad.cc
@@ -1971,6 +1973,7 @@
 0.0.0.0  999aa666bb.com
 0.0.0.0  999aae0fa7.com
 0.0.0.0  999bb222ww.com
+0.0.0.0  999d.com
 0.0.0.0  999xx333kk.com
 0.0.0.0  999xx999kk.com
 0.0.0.0  99ads.net
@@ -3878,7 +3881,7 @@
 0.0.0.0  a41309.actonservice.com
 0.0.0.0  a41334.actonservice.com
 0.0.0.0  a41342.actonservice.com
-0.0.0.0  a41385.actonservice.com
+0.0.0.0  a41385.actonservrvices.social.microsoft.com
 0.0.0.0  a41505.actonservice.com
 0.0.0.0  a41522.actonservice.com
 0.0.0.0  a41547.actonservice.com
@@ -4384,7 +4387,6 @@
 0.0.0.0  a45125.actonservice.com
 0.0.0.0  a45126.actonservice.com
 0.0.0.0  a45139.actonservice.com
-0.0.0.0  a45144.actonservice.com
 0.0.0.0  a45155.actonservice.com
 0.0.0.0  a45157.actonservice.com
 0.0.0.0  a45158.actonservice.com
@@ -4578,6 +4580,7 @@
 0.0.0.0  a5t.icu
 0.0.0.0  a6-remad.qm989.com
 0.0.0.0  a6.hn985.com
+0.0.0.0  a64x.com
 0.0.0.0  a67c5c438d.com
 0.0.0.0  a751.oadz.com
 0.0.0.0  a760b56379.com
@@ -7504,6 +7507,7 @@
 0.0.0.0  adimg1.chosun.com
 0.0.0.0  adimg3.search.naver.net
 0.0.0.0  adimise.com
+0.0.0.0  adimpact.com
 0.0.0.0  adinall.com
 0.0.0.0  adinc.co.kr
 0.0.0.0  adinc.kr
@@ -8763,6 +8767,7 @@
 0.0.0.0  adzs.com
 0.0.0.0  adzs.nl
 0.0.0.0  ae-edqfrmstp.one
+0.0.0.0  ae-go.experian.com
 0.0.0.0  ae.bdstatic.com
 0.0.0.0  ae.cobweb.com
 0.0.0.0  ae4.ifeng.com
@@ -14987,6 +14992,7 @@
 0.0.0.0  bidder.newspassid.com
 0.0.0.0  bidderads.com
 0.0.0.0  bidderrtb.com
+0.0.0.0  biddingfitful.com
 0.0.0.0  biddingx.com
 0.0.0.0  bidfilter.com
 0.0.0.0  bidgear.com
@@ -15981,6 +15987,7 @@
 0.0.0.0  branch.devishetty.net
 0.0.0.0  branch.dragonslayertravel.com
 0.0.0.0  branch.eccocar.com
+0.0.0.0  branch.employus.com
 0.0.0.0  branch.familybase.vzw.com
 0.0.0.0  branch.frankctan.com
 0.0.0.0  branch.getcredible.io
@@ -25062,6 +25069,7 @@
 0.0.0.0  directaclick.com
 0.0.0.0  directadvert.ru
 0.0.0.0  directavenue.tech
+0.0.0.0  directcounter.de
 0.0.0.0  directcrm.ru
 0.0.0.0  directdexchange.com
 0.0.0.0  directflowlink.com
@@ -25785,6 +25793,7 @@
 0.0.0.0  dorsulachiplet.com
 0.0.0.0  dortmark.net
 0.0.0.0  doruffleton.com
+0.0.0.0  doruffletr.com
 0.0.0.0  dosconsiderate.com
 0.0.0.0  doseadraa.com
 0.0.0.0  doshellosan.com
@@ -36302,6 +36311,7 @@
 0.0.0.0  htrem.site
 0.0.0.0  htrkjfbubosrgc.com
 0.0.0.0  httpdns-sdk.n.netease.com
+0.0.0.0  httpdns.bcelive.com
 0.0.0.0  httpdns.browser.miui.com
 0.0.0.0  httpdns.c.cdnhwc2.com
 0.0.0.0  httpdns.music.163.com
@@ -36708,7 +36718,7 @@
 0.0.0.0  i.zzb6.cn
 0.0.0.0  i0.letvimg.com
 0.0.0.0  i0001.clarodrive.com
-0.0.0.0  i1.services.social.microsoft.com
+0.0.0.0  i1.sea29643.actonservice.com
 0.0.0.0  i218435.net
 0.0.0.0  i22lo.com
 0.0.0.0  i2ad.jp
@@ -36824,6 +36834,7 @@
 0.0.0.0  icatethebenefits.com
 0.0.0.0  icaubf.casamundo.de
 0.0.0.0  icdirect.com
+0.0.0.0  ice.com
 0.0.0.0  icebns.com
 0.0.0.0  icelessbogles.com
 0.0.0.0  icemining.ca
@@ -40020,6 +40031,7 @@
 0.0.0.0  izqeyo.xyz
 0.0.0.0  izqogb.cn
 0.0.0.0  izqordiqqvw.com
+0.0.0.0  izremx.dentalplans.com
 0.0.0.0  izrnvo.com
 0.0.0.0  izumisv1.cc
 0.0.0.0  izuts.com
@@ -42812,6 +42824,7 @@
 0.0.0.0  laphagrito.com
 0.0.0.0  lapiana.actonservice.com
 0.0.0.0  lapkhy.aventon.com
+0.0.0.0  laplink.actonservice.com
 0.0.0.0  lapnicjaqxu.com
 0.0.0.0  lappmoliz.com
 0.0.0.0  lapsebreak.com
@@ -43276,6 +43289,7 @@
 0.0.0.0  letopreseyna.org
 0.0.0.0  letqejcjo.xyz
 0.0.0.0  letreach.com
+0.0.0.0  letro.jp
 0.0.0.0  lets-dev.irl.com
 0.0.0.0  lets.go.haymarketmedicalnetwork.com
 0.0.0.0  lets.go.mcknightsnetwork.com
@@ -44589,6 +44603,7 @@
 0.0.0.0  llamavoice.com
 0.0.0.0  llanalytics.com
 0.0.0.0  llanotextiles.cn
+0.0.0.0  llbcnpehbm.com
 0.0.0.0  llboqelaevqjy.top
 0.0.0.0  llgkzsbqwtdwz.online
 0.0.0.0  llimghobbjl.com
@@ -44716,6 +44731,7 @@
 0.0.0.0  loader.the-crossword-solver.com
 0.0.0.0  loader.word-grabber.com
 0.0.0.0  loader.worldhistory.org
+0.0.0.0  loadercdn.com
 0.0.0.0  loading-resource.com
 0.0.0.0  loading.baofeng5.baofeng.net
 0.0.0.0  loadingscripts.com
@@ -48588,6 +48604,7 @@
 0.0.0.0  med.linzess.com
 0.0.0.0  med.linzesshcp.com
 0.0.0.0  med.live2thrive.org
+0.0.0.0  med.myandroderm.com
 0.0.0.0  med.namenda.com
 0.0.0.0  med.namzaric.com
 0.0.0.0  med.rectiv.com
@@ -54142,6 +54159,7 @@
 0.0.0.0  odxh.cn
 0.0.0.0  odz12g5ag.com
 0.0.0.0  oebarc.ekosport.at
+0.0.0.0  oecdupuvlbvjs.space
 0.0.0.0  oeciyalb.top
 0.0.0.0  oedbml.collage-shop.jp
 0.0.0.0  oedlmz.underarmour.it
@@ -68562,6 +68580,7 @@
 0.0.0.0  smetrics.lululemon.cn
 0.0.0.0  smetrics.lululemon.co.jp
 0.0.0.0  smetrics.lululemon.co.kr
+0.0.0.0  smetrics.lululemon.co.nz
 0.0.0.0  smetrics.lululemon.co.uk
 0.0.0.0  smetrics.lululemon.com
 0.0.0.0  smetrics.lululemon.com.au
@@ -75879,6 +75898,7 @@
 0.0.0.0  telemetry.tradingview.com
 0.0.0.0  telemetry.transcend.io
 0.0.0.0  telemetry.urs.microsoft.com
+0.0.0.0  telemetry.urs.microsoft.ice.com
 0.0.0.0  telemetry.vtex.com
 0.0.0.0  telemetry.webasto.com
 0.0.0.0  telepang.com
@@ -77782,6 +77802,7 @@
 0.0.0.0  tr.enquetes.actionlogement.fr
 0.0.0.0  tr.entreprise-pro.info
 0.0.0.0  tr.entreprise.axa.fr
+0.0.0.0  tr.envie-de-bien-manger.espmp-aufr.net
 0.0.0.0  tr.eqs.cpam67.net
 0.0.0.0  tr.espmp-agfr.net
 0.0.0.0  tr.estatesandwines.moethennessy.com
@@ -81074,6 +81095,7 @@
 0.0.0.0  uc9.suinidai.com.cn
 0.0.0.0  uc9.ucweb.com
 0.0.0.0  uca6.com
+0.0.0.0  ucaas.avaya.com
 0.0.0.0  ucationinin.info
 0.0.0.0  ucavu.live
 0.0.0.0  uccocvftru.com
