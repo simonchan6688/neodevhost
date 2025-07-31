@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-07-30
+# Last update: 2025-07-31
 #
-# Number of domains: 90966
+# Number of domains: 90959
 #
 #=====================================
 payload:
@@ -49,6 +49,7 @@ payload:
   - '02085170.xyz'
   - '0214217ebc.com'
   - '023e6510cc.com'
+  - '024.com'
   - '029519cbdc.com'
   - '03.lzzncm.com'
   - '0300acdff2.com'
@@ -312,7 +313,6 @@ payload:
   - '133uu.com'
   - '13554359.xyz'
   - '1357902.cn'
-  - '1370065b3a.com'
   - '137kfj65k.de'
   - '138lm.com'
   - '13bt.info'
@@ -395,7 +395,6 @@ payload:
   - '17zheng.cn'
   - '180.xdwan.com'
   - '18052925.im.intermiles.com'
-  - '181m2fscr.de'
   - '184c4i95p.de'
   - '188api.com'
   - '189zj.cn'
@@ -679,7 +678,6 @@ payload:
   - '2479april2024.com'
   - '2481april2024.com'
   - '24837724.xyz'
-  - '2483may2024.com'
   - '2485may2024.com'
   - '2489may2024.com'
   - '2491may2024.com'
@@ -2039,7 +2037,6 @@ payload:
   - '9a4f937e0f.com'
   - '9a71b08258.com'
   - '9a8f641701.com'
-  - '9adbbad978.com'
   - '9ads.mobi'
   - '9ads.net'
   - '9b4069b2fa.com'
@@ -2961,7 +2958,6 @@ payload:
   - 'a17414.actonservice.com'
   - 'a17415.actonservice.com'
   - 'a17416.actonservice.com'
-  - 'a17426.actonservice.com'
   - 'a17436.actonservice.com'
   - 'a17452.actonservice.com'
   - 'a17453.actonservice.com'
@@ -3653,7 +3649,6 @@ payload:
   - 'a28690.actonservice.com'
   - 'a28702.actonservice.com'
   - 'a28708.actonservice.com'
-  - 'a28719.actonservice.com'
   - 'a28720.actonservice.com'
   - 'a28725.actonservice.com'
   - 'a28729.actonservice.com'
@@ -4346,7 +4341,6 @@ payload:
   - 'a44322.actonservice.com'
   - 'a44325.actonservice.com'
   - 'a44329.actonservice.com'
-  - 'a44332.actonservice.com'
   - 'a44342.actonservice.com'
   - 'a44344.actonservice.com'
   - 'a44347.actonservice.com'
@@ -6740,6 +6734,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -32286,7 +32281,6 @@ payload:
   - 'fzqjvw.oakandluna.com'
   - 'fzqxuwfexcqza.website'
   - 'fzu4.bysidecar.com'
-  - 'fzz.cloud.1234507.com'
   - 'g--o.info'
   - 'g-br-cdn.kwai.net.iberostar.com'
   - 'g-fallback.whatsapp.net.iberostar.com'
@@ -33849,7 +33843,7 @@ payload:
   - 'go.errpgrt.com'
   - 'go.europe.mingle.com'
   - 'go.event.eset.com'
-  - 'go.everfave.active.tc.skysrt.com'
+  - 'go.everfave.com'
   - 'go.exactonline.de'
   - 'go.exactonline.fr'
   - 'go.exactonline.nl'
@@ -44086,7 +44080,6 @@ payload:
   - 'lifestyle.tradeshow.globalsources.com'
   - 'lifetds.com'
   - 'lifiads.com'
-  - 'lift.acquia.com'
   - 'liftdna.com'
   - 'liftedd.net'
   - 'liftedknowledge.com'

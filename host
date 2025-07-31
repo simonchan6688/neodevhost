@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-07-30
+# Last update: 2025-07-31
 #
-# Number of domains: 90966
+# Number of domains: 90959
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -48,6 +48,7 @@
 0.0.0.0  02085170.xyz
 0.0.0.0  0214217ebc.com
 0.0.0.0  023e6510cc.com
+0.0.0.0  024.com
 0.0.0.0  029519cbdc.com
 0.0.0.0  03.lzzncm.com
 0.0.0.0  0300acdff2.com
@@ -311,7 +312,6 @@
 0.0.0.0  133uu.com
 0.0.0.0  13554359.xyz
 0.0.0.0  1357902.cn
-0.0.0.0  1370065b3a.com
 0.0.0.0  137kfj65k.de
 0.0.0.0  138lm.com
 0.0.0.0  13bt.info
@@ -394,7 +394,6 @@
 0.0.0.0  17zheng.cn
 0.0.0.0  180.xdwan.com
 0.0.0.0  18052925.im.intermiles.com
-0.0.0.0  181m2fscr.de
 0.0.0.0  184c4i95p.de
 0.0.0.0  188api.com
 0.0.0.0  189zj.cn
@@ -678,7 +677,6 @@
 0.0.0.0  2479april2024.com
 0.0.0.0  2481april2024.com
 0.0.0.0  24837724.xyz
-0.0.0.0  2483may2024.com
 0.0.0.0  2485may2024.com
 0.0.0.0  2489may2024.com
 0.0.0.0  2491may2024.com
@@ -2038,7 +2036,6 @@
 0.0.0.0  9a4f937e0f.com
 0.0.0.0  9a71b08258.com
 0.0.0.0  9a8f641701.com
-0.0.0.0  9adbbad978.com
 0.0.0.0  9ads.mobi
 0.0.0.0  9ads.net
 0.0.0.0  9b4069b2fa.com
@@ -2960,7 +2957,6 @@
 0.0.0.0  a17414.actonservice.com
 0.0.0.0  a17415.actonservice.com
 0.0.0.0  a17416.actonservice.com
-0.0.0.0  a17426.actonservice.com
 0.0.0.0  a17436.actonservice.com
 0.0.0.0  a17452.actonservice.com
 0.0.0.0  a17453.actonservice.com
@@ -3652,7 +3648,6 @@
 0.0.0.0  a28690.actonservice.com
 0.0.0.0  a28702.actonservice.com
 0.0.0.0  a28708.actonservice.com
-0.0.0.0  a28719.actonservice.com
 0.0.0.0  a28720.actonservice.com
 0.0.0.0  a28725.actonservice.com
 0.0.0.0  a28729.actonservice.com
@@ -4345,7 +4340,6 @@
 0.0.0.0  a44322.actonservice.com
 0.0.0.0  a44325.actonservice.com
 0.0.0.0  a44329.actonservice.com
-0.0.0.0  a44332.actonservice.com
 0.0.0.0  a44342.actonservice.com
 0.0.0.0  a44344.actonservice.com
 0.0.0.0  a44347.actonservice.com
@@ -6739,6 +6733,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -32285,7 +32280,6 @@
 0.0.0.0  fzqjvw.oakandluna.com
 0.0.0.0  fzqxuwfexcqza.website
 0.0.0.0  fzu4.bysidecar.com
-0.0.0.0  fzz.cloud.1234507.com
 0.0.0.0  g--o.info
 0.0.0.0  g-br-cdn.kwai.net.iberostar.com
 0.0.0.0  g-fallback.whatsapp.net.iberostar.com
@@ -33848,7 +33842,7 @@
 0.0.0.0  go.errpgrt.com
 0.0.0.0  go.europe.mingle.com
 0.0.0.0  go.event.eset.com
-0.0.0.0  go.everfave.active.tc.skysrt.com
+0.0.0.0  go.everfave.com
 0.0.0.0  go.exactonline.de
 0.0.0.0  go.exactonline.fr
 0.0.0.0  go.exactonline.nl
@@ -44085,7 +44079,6 @@
 0.0.0.0  lifestyle.tradeshow.globalsources.com
 0.0.0.0  lifetds.com
 0.0.0.0  lifiads.com
-0.0.0.0  lift.acquia.com
 0.0.0.0  liftdna.com
 0.0.0.0  liftedd.net
 0.0.0.0  liftedknowledge.com
