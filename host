@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-08-08
+# Last update: 2025-08-09
 #
 # Number of domains: 93470
 #
@@ -6796,7 +6796,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -23746,6 +23745,7 @@
 0.0.0.0  dacmaiss.com
 0.0.0.0  dacocorp.actonservice.com
 0.0.0.0  dacounter.com
+0.0.0.0  dactive.tc.skysrt.com
 0.0.0.0  dadalytics.it
 0.0.0.0  dadatuwz.com
 0.0.0.0  dadi.technology
@@ -25341,7 +25341,6 @@
 0.0.0.0  df80k0z3fi8zg.cloudfront.net
 0.0.0.0  dfaazrxihm.com
 0.0.0.0  dfan4.icu
-0.0.0.0  dfanalytics.dealerfire.com
 0.0.0.0  dfaobxanhdfa.com
 0.0.0.0  dfapvmql-q.global.ssl.fastly.net
 0.0.0.0  dfdgfruitie.xyz
@@ -30928,6 +30927,7 @@
 0.0.0.0  fan-yong.com
 0.0.0.0  fan.info.heat.com
 0.0.0.0  fan.liuxiaoer.com
+0.0.0.0  fanalytics.dealerfire.com
 0.0.0.0  fancyactivity.com
 0.0.0.0  fancyapi.com
 0.0.0.0  fancydigital.com.cn
