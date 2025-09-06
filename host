@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-09-05
+# Last update: 2025-09-06
 #
-# Number of domains: 93743
+# Number of domains: 93740
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -11570,13 +11570,13 @@
 0.0.0.0  app.12thmanfoundation.com
 0.0.0.0  app.189tutors.com
 0.0.0.0  app.3987.com
-0.0.0.0  app.50bang.org
 0.0.0.0  app.8tracks.com
 0.0.0.0  app.aaas-science.org
 0.0.0.0  app.aaptiv.com
 0.0.0.0  app.accelerate.zoominfo.com
 0.0.0.0  app.acekuwait.com
 0.0.0.0  app.acm.dzwww.com
+0.0.0.0  app.active.tc.skysrt.com
 0.0.0.0  app.activityhero.com
 0.0.0.0  app.advertisingsolutions.att-mail.com
 0.0.0.0  app.albrt.co
@@ -69901,8 +69901,6 @@
 0.0.0.0  skytraf.xyz
 0.0.0.0  skytraffix.net
 0.0.0.0  sl-ct5.com
-0.0.0.0  sl-log.oray.net
-0.0.0.0  sl-tk.oray.com
 0.0.0.0  sl.hpplay.cn
 0.0.0.0  sl.trycircle.com
 0.0.0.0  slabbedmacan.shop
@@ -80114,7 +80112,6 @@
 0.0.0.0  tk.nhlottery.com
 0.0.0.0  tk.opinion-assurances.fr
 0.0.0.0  tk.optaim.com
-0.0.0.0  tk.oray.com
 0.0.0.0  tk.pathmonk.com
 0.0.0.0  tk.petit-bateau.be
 0.0.0.0  tk.petit-bateau.co.uk
