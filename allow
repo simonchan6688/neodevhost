@@ -2070,6 +2070,7 @@ blocklists.settings.services.mozilla.org
 blog-at.line.me
 blog-cdn.feedspot.com
 blog-cdn2.feedspot.com
+blog-cms.line.me
 blog.appsumo.com
 blog.bit.ly
 blog.bitfinex.com
@@ -3701,6 +3702,7 @@ e1.net
 e1102.a.akamaiedge.net
 e1151.e12.akamaiedge.net
 e16973.a.akamaiedge.net
+e16973.a.akamaiedgetrac.com
 e2561.b.akamaiedge.net
 e2e.ign.com
 e3489.cd.akamaiedge.net
@@ -7382,7 +7384,6 @@ office365.com
 officeclient.microsoft.com
 officedepot.com
 official-blog.line.me
-og-cms.line.me
 ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
@@ -7800,8 +7801,8 @@ pmall.migc.xiaomi.com
 pmd.cdn.turner.com
 pmir.sec.miui.com
 pnd.it
+pnfb.me
 pntra.com
-pntrac.com
 pntrack.com
 po.gravatar.com
 po.st
