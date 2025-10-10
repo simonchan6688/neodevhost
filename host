@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-10-09
+# Last update: 2025-10-10
 #
-# Number of domains: 95708
+# Number of domains: 95705
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -1566,7 +1566,6 @@
 0.0.0.0  64786087.xyz
 0.0.0.0  64fe1cbf9e.com
 0.0.0.0  64lv69ncb9.com
-0.0.0.0  65.com
 0.0.0.0  65035033.xyz
 0.0.0.0  65122038.xyz
 0.0.0.0  6519114.automated.almosafer.com
@@ -6914,6 +6913,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -18457,7 +18457,6 @@
 0.0.0.0  cdnhst.xyz
 0.0.0.0  cdnimg.liehu.ijinshan.com
 0.0.0.0  cdnis.hyperpromote.com
-0.0.0.0  cdnjs.hro-cosmetics.com
 0.0.0.0  cdnjs.mopair-erm.net
 0.0.0.0  cdnkimg.com
 0.0.0.0  cdnkuiphgg.xyz
@@ -19315,7 +19314,6 @@
 0.0.0.0  cl.webterren.com
 0.0.0.0  cl0.webterren.com
 0.0.0.0  cl0udh0st1ng.com
-0.0.0.0  cl2.webterren.com
 0.0.0.0  cl3.webterren.com
 0.0.0.0  cl4.webterren.com
 0.0.0.0  cl5.webterren.com
@@ -48447,7 +48445,6 @@
 0.0.0.0  m.fdaoo.com
 0.0.0.0  m.feirs.com
 0.0.0.0  m.feisia1.cn
-0.0.0.0  m.fgaon.com
 0.0.0.0  m.figigl.cn
 0.0.0.0  m.fimky.com
 0.0.0.0  m.fkkse.com
@@ -50034,7 +50031,6 @@
 0.0.0.0  marketing.northgate.com
 0.0.0.0  marketing.nova.gr
 0.0.0.0  marketing.novatel.com
-0.0.0.0  marketing.novelcoworking.com
 0.0.0.0  marketing.novicell.co.uk
 0.0.0.0  marketing.nowplayingutah.com
 0.0.0.0  marketing.nparallel.com
@@ -63261,6 +63257,7 @@
 0.0.0.0  pu5hk1n2020.com
 0.0.0.0  puabhxebvxluh.space
 0.0.0.0  puabvo.com
+0.0.0.0  puata.info
 0.0.0.0  pub-referral-widget.current.us
 0.0.0.0  pub.funshion.com
 0.0.0.0  pub.neartonet.com
@@ -69921,7 +69918,7 @@
 0.0.0.0  secure.adpinfo.com
 0.0.0.0  secure.agile-company-247.com
 0.0.0.0  secure.agile-company-365.com
-0.0.0.0  secure.agile-enterprise-3active.tc.skysrt.com
+0.0.0.0  secure.agile-enterprise-365.com
 0.0.0.0  secure.agile365enterprise.com
 0.0.0.0  secure.agilebusinessvision.com
 0.0.0.0  secure.agilecompanyintelligence.com
@@ -71911,7 +71908,6 @@
 0.0.0.0  sky.fs.skysrt.com
 0.0.0.0  sky.t003.ottcn.com
 0.0.0.0  sky.tvos.skysrt.com
-0.0.0.0  skyadsmart.com
 0.0.0.0  skybouchee.shop
 0.0.0.0  skydemanded.com
 0.0.0.0  skye6oner.com
@@ -94595,6 +94591,7 @@
 0.0.0.0  yule.fulevmy.com
 0.0.0.0  yulonginvest.com.cn
 0.0.0.0  yulx.cn
+0.0.0.0  yumao.puata.info
 0.0.0.0  yumenetworks.com
 0.0.0.0  yumhusk.com
 0.0.0.0  yumimobi.com

@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-10-09
+# Last update: 2025-10-10
 #
-# Number of domains: 95708
+# Number of domains: 95705
 #
 #=====================================
 payload:
@@ -1567,7 +1567,6 @@ payload:
   - '64786087.xyz'
   - '64fe1cbf9e.com'
   - '64lv69ncb9.com'
-  - '65.com'
   - '65035033.xyz'
   - '65122038.xyz'
   - '6519114.automated.almosafer.com'
@@ -6915,6 +6914,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -18458,7 +18458,6 @@ payload:
   - 'cdnhst.xyz'
   - 'cdnimg.liehu.ijinshan.com'
   - 'cdnis.hyperpromote.com'
-  - 'cdnjs.hro-cosmetics.com'
   - 'cdnjs.mopair-erm.net'
   - 'cdnkimg.com'
   - 'cdnkuiphgg.xyz'
@@ -19316,7 +19315,6 @@ payload:
   - 'cl.webterren.com'
   - 'cl0.webterren.com'
   - 'cl0udh0st1ng.com'
-  - 'cl2.webterren.com'
   - 'cl3.webterren.com'
   - 'cl4.webterren.com'
   - 'cl5.webterren.com'
@@ -48448,7 +48446,6 @@ payload:
   - 'm.fdaoo.com'
   - 'm.feirs.com'
   - 'm.feisia1.cn'
-  - 'm.fgaon.com'
   - 'm.figigl.cn'
   - 'm.fimky.com'
   - 'm.fkkse.com'
@@ -50035,7 +50032,6 @@ payload:
   - 'marketing.northgate.com'
   - 'marketing.nova.gr'
   - 'marketing.novatel.com'
-  - 'marketing.novelcoworking.com'
   - 'marketing.novicell.co.uk'
   - 'marketing.nowplayingutah.com'
   - 'marketing.nparallel.com'
@@ -63262,6 +63258,7 @@ payload:
   - 'pu5hk1n2020.com'
   - 'puabhxebvxluh.space'
   - 'puabvo.com'
+  - 'puata.info'
   - 'pub-referral-widget.current.us'
   - 'pub.funshion.com'
   - 'pub.neartonet.com'
@@ -69922,7 +69919,7 @@ payload:
   - 'secure.adpinfo.com'
   - 'secure.agile-company-247.com'
   - 'secure.agile-company-365.com'
-  - 'secure.agile-enterprise-3active.tc.skysrt.com'
+  - 'secure.agile-enterprise-365.com'
   - 'secure.agile365enterprise.com'
   - 'secure.agilebusinessvision.com'
   - 'secure.agilecompanyintelligence.com'
@@ -71912,7 +71909,6 @@ payload:
   - 'sky.fs.skysrt.com'
   - 'sky.t003.ottcn.com'
   - 'sky.tvos.skysrt.com'
-  - 'skyadsmart.com'
   - 'skybouchee.shop'
   - 'skydemanded.com'
   - 'skye6oner.com'
@@ -94596,6 +94592,7 @@ payload:
   - 'yule.fulevmy.com'
   - 'yulonginvest.com.cn'
   - 'yulx.cn'
+  - 'yumao.puata.info'
   - 'yumenetworks.com'
   - 'yumhusk.com'
   - 'yumimobi.com'
