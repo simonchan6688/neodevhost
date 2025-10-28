@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-10-27
+# Last update: 2025-10-28
 #
-# Number of domains: 97941
+# Number of domains: 97937
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -48879,7 +48879,6 @@
 0.0.0.0  log.coolguang.com
 0.0.0.0  log.cpex.cz
 0.0.0.0  log.cs.pp.cn
-0.0.0.0  log.da.hunantv.com
 0.0.0.0  log.dpa.com
 0.0.0.0  log.dzen.ru
 0.0.0.0  log.ecgh.dk
@@ -63084,7 +63083,6 @@
 0.0.0.0  player.avplayer.com
 0.0.0.0  player.ex.co
 0.0.0.0  player.gliacloud.com
-0.0.0.0  player.log.hunantv.com
 0.0.0.0  player.quankan.tv
 0.0.0.0  player.sendtonews.com
 0.0.0.0  playeranydwouldm.org
@@ -89965,8 +89963,6 @@
 0.0.0.0  v2.cnzz.com
 0.0.0.0  v2.da.mgtv.com
 0.0.0.0  v2.gdt.qq.com
-0.0.0.0  v2.hd.log.hunantv.com
-0.0.0.0  v2.hdd.log.hunantv.com
 0.0.0.0  v2.jiathis.com
 0.0.0.0  v2.log.hunantv.com
 0.0.0.0  v2.log.mgtv.com
