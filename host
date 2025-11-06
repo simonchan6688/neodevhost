@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-11-05
+# Last update: 2025-11-06
 #
-# Number of domains: 97643
+# Number of domains: 97635
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -898,6 +898,7 @@
 0.0.0.0  2zjftxgl5s.com
 0.0.0.0  2znp09oa.com
 0.0.0.0  3.5646.cn
+0.0.0.0  3.actonservice.com
 0.0.0.0  3.cjcp.cn
 0.0.0.0  3.iscrv.com
 0.0.0.0  3.ssqzj.com
@@ -1650,7 +1651,6 @@
 0.0.0.0  6dp0i7.ru
 0.0.0.0  6e5e20f3c0.com
 0.0.0.0  6e67e233a2.com
-0.0.0.0  6e6cd153a6.com
 0.0.0.0  6ef14e40a9.com
 0.0.0.0  6fbce8ec59.com
 0.0.0.0  6glece4homah8dweracea.com
@@ -1947,7 +1947,6 @@
 0.0.0.0  864feb57ruary.com
 0.0.0.0  86aocbvvsh.com
 0.0.0.0  86fef27c8b.com
-0.0.0.0  86fm.com
 0.0.0.0  86hi9r4f.xyz
 0.0.0.0  874547.men
 0.0.0.0  876920.com
@@ -2026,7 +2025,6 @@
 0.0.0.0  8fbfeb27e6.com
 0.0.0.0  8feichai.com
 0.0.0.0  8ff0.cn
-0.0.0.0  8ffea74ec5.com
 0.0.0.0  8fo.icu
 0.0.0.0  8gl.com.cn
 0.0.0.0  8j1f0af5.de
@@ -2147,7 +2145,6 @@
 0.0.0.0  96138.net
 0.0.0.0  96382zubo66756.com
 0.0.0.0  963fc.com
-0.0.0.0  96679950.xyz
 0.0.0.0  9669.com
 0.0.0.0  9679c2b616.com
 0.0.0.0  9693.pandasuite.io
@@ -3789,7 +3786,6 @@
 0.0.0.0  a28278.actonservice.com
 0.0.0.0  a28284.actonservice.com
 0.0.0.0  a28287.actonservice.com
-0.0.0.0  a28296.actonservice.com
 0.0.0.0  a28298.actonservice.com
 0.0.0.0  a28302.actonservice.com
 0.0.0.0  a28307.actonservice.com
@@ -3960,7 +3956,6 @@
 0.0.0.0  a29846.actonservice.com
 0.0.0.0  a29866.actonservice.com
 0.0.0.0  a29868.actonservice.com
-0.0.0.0  a29881.actonservice.com
 0.0.0.0  a29902.actonservice.com
 0.0.0.0  a29975.actonservice.com
 0.0.0.0  a2b219c0ce.com
@@ -4483,7 +4478,6 @@
 0.0.0.0  a44183.actonservice.com
 0.0.0.0  a44184.actonservice.com
 0.0.0.0  a44190.actonservice.com
-0.0.0.0  a44193.actonservice.com
 0.0.0.0  a44195.actonservice.com
 0.0.0.0  a44200.actonservice.com
 0.0.0.0  a44201.actonservice.com
@@ -6915,7 +6909,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -14108,7 +14101,7 @@
 0.0.0.0  bagsgarnish.com
 0.0.0.0  bagsimportancepropose.com
 0.0.0.0  bagsurprise.com
-0.0.0.0  baguettefactornervous.com
+0.0.0.0  baguettefactornervoactive.tc.skysrt.com
 0.0.0.0  baguioattalea.com
 0.0.0.0  bagwigsquietus.com
 0.0.0.0  bahamashello.com
@@ -14546,7 +14539,6 @@
 0.0.0.0  bdbbqypwlvjzs.online
 0.0.0.0  bdbc7dce8e.com
 0.0.0.0  bdblpy.top
-0.0.0.0  bdcdncmn-gd.inter.71edge.com
 0.0.0.0  bdcdncnc.inter.71edge.com
 0.0.0.0  bdcm.kandianla.com
 0.0.0.0  bdcode.2345.com
@@ -88653,6 +88645,7 @@
 0.0.0.0  us-now.experian.com
 0.0.0.0  us.adserver.yahoo.com
 0.0.0.0  us.appbackupapi.micloud.xiaomi.net.iberostar.com
+0.0.0.0  us.com
 0.0.0.0  us.l.qq.com
 0.0.0.0  us.mattamyhomes.com
 0.0.0.0  us.micardapi.micloud.xiaomi.net.iberostar.com
@@ -88811,7 +88804,6 @@
 0.0.0.0  utiq.24royal.de
 0.0.0.0  utiq.24vita.de
 0.0.0.0  utiq.3djuegos.com
-0.0.0.0  utiq.3djuegosguias.com
 0.0.0.0  utiq.3djuegospc.com
 0.0.0.0  utiq.750g.com
 0.0.0.0  utiq.abc.es
