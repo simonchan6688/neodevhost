@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-11-21
+# Last update: 2025-11-22
 #
-# Number of domains: 95263
+# Number of domains: 95273
 #
 #=====================================
 payload:
@@ -6932,6 +6932,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -7674,6 +7675,7 @@ payload:
   - 'adfrontiers.com'
   - 'adfsda005.xyz'
   - 'adfunds.org'
+  - 'adfunlink.com'
   - 'adfuri.socdm.com'
   - 'adfurikun.jp'
   - 'adfusion.com'
@@ -15304,6 +15306,7 @@ payload:
   - 'bidsxchange.com'
   - 'bidtheatre.com'
   - 'bidtimize.com'
+  - 'bidtoolads.com'
   - 'bidvance.com'
   - 'bidverdrd.com'
   - 'bidvertiser.com'
@@ -21216,7 +21219,6 @@ payload:
   - 'count.xxxssk.com'
   - 'count.yandeg.ru'
   - 'count24.de'
-  - 'count3.51yes.coactive.tc.skysrt.com'
   - 'count5.pconline.com.cn'
   - 'count6.pconline.com.cn'
   - 'countabledawdlerunaudited.com'
@@ -51929,6 +51931,7 @@ payload:
   - 'metrics.confectionerynews.com'
   - 'metrics.consumerreports.org'
   - 'metrics.contractingbusiness.com'
+  - 'metrics.conveniencestore.co.uk'
   - 'metrics.converse.com'
   - 'metrics.coolibar.com'
   - 'metrics.coordinatedcarehealth.com'
@@ -53920,6 +53923,7 @@ payload:
   - 'modificationdispatch.com'
   - 'modifiedfloatvest.com'
   - 'modistpuddy.click'
+  - 'modoro360.com'
   - 'modularmental.com'
   - 'modulecooper.com'
   - 'modulepush.com'
@@ -57259,6 +57263,7 @@ payload:
   - 'ocaksedrupsa.net'
   - 'ocardoniel.com'
   - 'occasional-section.pro'
+  - 'occasionalmanner.com'
   - 'occasionedcaneturner.com'
   - 'occidente.ubmmexico.com'
   - 'occjrzpp.com'
@@ -58637,7 +58642,6 @@ payload:
   - 'oquaysx.club'
   - 'oqwyltgrpaeow.online'
   - 'oqzbgkffzppay.space'
-  - 'or-anon.ex.co'
   - 'oracle-netsuite-com-796203850.p04.elqsandbox.com'
   - 'oracle.marketingcube.com.au'
   - 'oracleinfinity.io'
@@ -62010,6 +62014,7 @@ payload:
   - 'prcappzone.intel.com'
   - 'prchecker.info'
   - 'prcyrtdnx.xyz'
+  - 'prd-collector-anon.ex.co'
   - 'prd-collector-platform.ex.co'
   - 'prdqdbzquveuz.online'
   - 'prdredir.com'
@@ -68818,6 +68823,7 @@ payload:
   - 'scnd-tr.com'
   - 'scnd.landsend.co.uk'
   - 'scnd.landsend.com'
+  - 'scnd.landsend.de'
   - 'scnokjnvvuxlvb.com'
   - 'scode.randomhouse.com'
   - 'scohmallt.com'
@@ -77461,6 +77467,7 @@ payload:
   - 'stats.sandberg.world'
   - 'stats.sapnininkas.com'
   - 'stats.sascha-theobald.de'
+  - 'stats.saverglass.com'
   - 'stats.savoirplus-risquermoins.net'
   - 'stats.sawlive.tv'
   - 'stats.scalesql.com'
@@ -79679,6 +79686,7 @@ payload:
   - 'takigx.tourneau.com'
   - 'takingbackjuly.com'
   - 'takqyi.laurenhi.jp'
+  - 'takuad.com'
   - 'talaropa.com'
   - 'talckyslodder.top'
   - 'talcoidsakis.com'
@@ -81622,6 +81630,7 @@ payload:
   - 'tobaltoyon.com'
   - 'tobapplog.ctobsnssdk.com'
   - 'tobecation.github.io'
+  - 'tobidad.com'
   - 'tobipovsem.com'
   - 'toblog.ctobsnssdk.com'
   - 'toblog.snssdk.com'
@@ -81796,6 +81805,7 @@ payload:
   - 'topnewsgo.com'
   - 'topodat.info'
   - 'topofblogs.com'
+  - 'toponad.com'
   - 'topperformance.xyz'
   - 'toppleunit.com'
   - 'topprofitablecpm.com'
