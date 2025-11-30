@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-11-29
+# Last update: 2025-11-30
 #
-# Number of domains: 97090
+# Number of domains: 97096
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -6955,6 +6955,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -11396,6 +11397,7 @@
 0.0.0.0  api-push.com
 0.0.0.0  api-u-ssl.xunlei.com
 0.0.0.0  api-visitor-analytics.intercom.com
+0.0.0.0  api-websystems.landing.ni.com
 0.0.0.0  api-z.weidian.com
 0.0.0.0  api.140proof.com
 0.0.0.0  api.ad-locus.com
@@ -16902,6 +16904,7 @@
 0.0.0.0  brycys.24mx.se
 0.0.0.0  brygella.com
 0.0.0.0  bryny.xyz
+0.0.0.0  bryurent.eccocar.com
 0.0.0.0  brzjthsubtlwj.site
 0.0.0.0  brzvtueeyyqdo.space
 0.0.0.0  bs-adserver.b-cdn.net
@@ -17185,6 +17188,7 @@
 0.0.0.0  business.inveno.com
 0.0.0.0  business.keurig.com
 0.0.0.0  business.matchd.nl
+0.0.0.0  business.royal-cars.com
 0.0.0.0  business.samsungusa.com
 0.0.0.0  business.vodafone.co.nz
 0.0.0.0  business.vodafone.com
@@ -44432,7 +44436,6 @@
 0.0.0.0  jzzcyytskiojk.life
 0.0.0.0  jzzvsmdbsjyju.website
 0.0.0.0  k-analytix.com
-0.0.0.0  k.barcoproducts.ca
 0.0.0.0  k.bnuni.com
 0.0.0.0  k.brandalley.be
 0.0.0.0  k.brandalley.co.nl
@@ -50503,6 +50506,7 @@
 0.0.0.0  marketing.ducenit.com
 0.0.0.0  marketing.duckbrand.com
 0.0.0.0  marketing.dulsco.com
+0.0.0.0  marketing.duramarktechnologies.com
 0.0.0.0  marketing.dylangrayconsulting.com
 0.0.0.0  marketing.dynamicairshelters.com
 0.0.0.0  marketing.e-emphasys.com
@@ -59733,6 +59737,7 @@
 0.0.0.0  orcinhyi.com
 0.0.0.0  ordbng.extra.com.br
 0.0.0.0  orderlycash.com
+0.0.0.0  orderlyraw.pro
 0.0.0.0  orderlyuponprecipitation.com
 0.0.0.0  ordgoverytr.com
 0.0.0.0  ordinary-check.com
@@ -85667,7 +85672,6 @@
 0.0.0.0  trackyourstats.com
 0.0.0.0  trackzd.com
 0.0.0.0  tracot.com
-0.0.0.0  tractive.tc.skysrt.com
 0.0.0.0  tracyspb.com
 0.0.0.0  tradbypass.com
 0.0.0.0  tradeadexchange.com
@@ -86088,6 +86092,7 @@
 0.0.0.0  trk.avlr.net
 0.0.0.0  trk.bakewithstork.com
 0.0.0.0  trk.banktech.com
+0.0.0.0  trk.barcoproducts.ca
 0.0.0.0  trk.barcoproducts.com
 0.0.0.0  trk.batterytechonline.com
 0.0.0.0  trk.bc.shutterfly.com
@@ -91049,6 +91054,7 @@
 0.0.0.0  was.epson.com
 0.0.0.0  was.stubhub.com
 0.0.0.0  was.vodafone.de
+0.0.0.0  was.vodafone.nl
 0.0.0.0  wasalwayssu.org
 0.0.0.0  wasanasosettoou.org
 0.0.0.0  wasc.homedepot.ca
