@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-12-03
+# Last update: 2025-12-04
 #
 # Number of domains: 97789
 #
@@ -719,6 +719,7 @@
 0.0.0.0  233wo.com
 0.0.0.0  2345.cc
 0.0.0.0  2345.cn
+0.0.0.0  2345.com
 0.0.0.0  2345api.dftoutiao.com
 0.0.0.0  2345apicode.dftoutiao.com
 0.0.0.0  2370a39b8b.com
@@ -808,7 +809,6 @@
 0.0.0.0  2a2k3aom6.de
 0.0.0.0  2a4snhmtm.de
 0.0.0.0  2aa6f9qgrh9.acc.evservice.nl
-0.0.0.0  2active.tc.skysrt.com
 0.0.0.0  2aefgbf.de
 0.0.0.0  2b178ee32a.com
 0.0.0.0  2b8fa02c00.com
@@ -1004,7 +1004,6 @@
 0.0.0.0  342ef7c20e.com
 0.0.0.0  3434849c2e.com
 0.0.0.0  34475780.xyz
-0.0.0.0  345.com
 0.0.0.0  34c2f9c751.com
 0.0.0.0  34c72d94d3.com
 0.0.0.0  34mede82hj.com
@@ -6969,6 +6968,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
