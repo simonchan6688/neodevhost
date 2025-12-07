@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-12-06
+# Last update: 2025-12-07
 #
-# Number of domains: 98329
+# Number of domains: 98327
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -6973,7 +6973,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -78147,7 +78146,6 @@
 0.0.0.0  srepdata.usatoday.com
 0.0.0.0  srepdata.wausaudailyherald.com
 0.0.0.0  srepdata.wauwatosanow.com
-0.0.0.0  srepdata.wisfarmer.com
 0.0.0.0  srepdata.ydr.com
 0.0.0.0  srepdata.yorkdispatch.com
 0.0.0.0  sreport.mitsubishicars.com

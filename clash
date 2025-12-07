@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2025-12-06
+# Last update: 2025-12-07
 #
-# Number of domains: 98329
+# Number of domains: 98327
 #
 #=====================================
 payload:
@@ -6974,7 +6974,6 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
-  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -78148,7 +78147,6 @@ payload:
   - 'srepdata.usatoday.com'
   - 'srepdata.wausaudailyherald.com'
   - 'srepdata.wauwatosanow.com'
-  - 'srepdata.wisfarmer.com'
   - 'srepdata.ydr.com'
   - 'srepdata.yorkdispatch.com'
   - 'sreport.mitsubishicars.com'
