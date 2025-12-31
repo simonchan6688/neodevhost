@@ -1000,6 +1000,7 @@ amazon.protection
 amazon.ps
 amazon.pt
 amazon.pub
+amazon.pw
 amazon.qpon
 amazon.quebec
 amazon.racing
@@ -1268,6 +1269,7 @@ api-push.meizu.com
 api-rangers.line.me
 api-shoulei-ssl.xunlei.com
 api-ssl.bit.ly
+api-staging-embedded.soundcloud.com
 api-stream.twitter.com
 api-tv.spotify.com
 api-us1.mpay.samsung.com
@@ -2051,6 +2053,7 @@ bj.bcebos.com
 bjbgc.com
 bk01.hh.xiaomi.com
 bkimg.cdn.bcebos.com
+bl360.cn
 black.game.naver.com
 blackberry.com
 blacklistednews.com
@@ -2068,7 +2071,6 @@ blocklists.settings.services.mozilla.org
 blog-at.line.me
 blog-cdn.feedspot.com
 blog-cdn2.feedspot.com
-blog-cms.line.me
 blog.appsumo.com
 blog.bit.ly
 blog.bitfinex.com
@@ -7074,7 +7076,6 @@ nbcnewyork.com
 nbigfile.mail.naver.com
 nctx.arcticapi.com
 ncu.ca
-ndcloud.com
 ndirect.ppro.de
 ndrive.naver.com
 ndtv.com
@@ -7388,6 +7389,7 @@ office365.com
 officeclient.microsoft.com
 officedepot.com
 official-blog.line.me
+og-cms.line.me
 ogcrawler.blog.naver.com
 oge.la
 ogs.google.com
