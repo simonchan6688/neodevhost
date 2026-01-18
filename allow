@@ -26,6 +26,7 @@
 0.se.pool.ntp.org
 0.sonostime.pool.ntp.org
 0.ubuntu.pool.ntp.org
+0.uk.pool.ntp.org
 0.us.pool.ntp.org
 0.wikipedia.com
 0daydown.com
@@ -74,7 +75,6 @@
 1drv.ms
 1e100.net
 1fgqfml.oloadcdn.net
-1fichier.com
 1gr.cz
 1hosts.cf
 1und1.de
@@ -9777,7 +9777,6 @@ townnews.com
 toysrus.com
 tp-emea.exactag.com
 tp.hd.mi.com
-tp.org
 tp24.com
 tplinkwifi.net
 tr-tr.about.flipboard.com
@@ -12176,6 +12175,7 @@ zh-cn.about.flipboard.com
 zh-hk.about.flipboard.com
 zh-tw.gravatar.com
 zh-tw.twitch.tv
+zh.ifixit.com
 zh.wikipedia.com
 zhaopin.com
 zhibo.mi.com
