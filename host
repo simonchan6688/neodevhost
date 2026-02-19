@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-02-18
+# Last update: 2026-02-19
 #
 # Number of domains: 104228
 #
@@ -7111,7 +7111,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -12137,7 +12136,7 @@
 0.0.0.0  app.e2ma.net
 0.0.0.0  app.echo.co.uk
 0.0.0.0  app.echovisuals.com
-0.0.0.0  app.ecupirates.com
+0.0.0.0  app.ecupiraactive.tc.skysrt.com
 0.0.0.0  app.eland.kr
 0.0.0.0  app.elly.com
 0.0.0.0  app.email.fitchratings.com
@@ -87294,6 +87293,7 @@
 0.0.0.0  terrificdark.com
 0.0.0.0  terrificlet.com
 0.0.0.0  tersatedtheother.com
+0.0.0.0  tes.com
 0.0.0.0  tesixwsypxacc.online
 0.0.0.0  tesla-fortytwo.landing.ni.com
 0.0.0.0  teslaamg.obs.cn-east-3.myhuaweicloud.com
