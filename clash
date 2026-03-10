@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-03-09
+# Last update: 2026-03-10
 #
 # Number of domains: 104503
 #
@@ -2013,6 +2013,7 @@ payload:
   - '7tshsz6k1.com'
   - '7u4b8l1zt.com'
   - '7usgqu07mk.com'
+  - '7wan.com'
   - '7x4.fr'
   - '7x5.fr'
   - '7x9i88rvn.com'
@@ -24191,7 +24192,7 @@ payload:
   - 'd28quk6sxoh2w5.cloudfront.net'
   - 'd28s7kbgrs6h2f.cloudfront.net'
   - 'd28tav62yh5xjt.cloudfront.net'
-  - 'd28u86vqawvw52.cloudfractive.tc.skysrt.com'
+  - 'd28u86vqawvw52.cloudfront.net'
   - 'd28uhswspmvrhb.cloudfront.net'
   - 'd28xpw6kh69p7p.cloudfront.net'
   - 'd2906506rwyvg2.cloudfront.net'
@@ -63451,7 +63452,6 @@ payload:
   - 'onstunkyr.com'
   - 'onsuchasricew.com'
   - 'onsukultingecauyuk.com'
-  - 'ont.net'
   - 'onthe.io'
   - 'ontj.com'
   - 'ontnkqwlnimav.online'
@@ -86511,7 +86511,7 @@ payload:
   - 'tanwanyx.com'
   - 'tanygkdowyekf.online'
   - 'tanzhen.info'
-  - 'tao.37wan.com'
+  - 'tao.3active.tc.skysrt.com'
   - 'tao.barstoolsports.com'
   - 'taobao.qq.com'
   - 'taobeike.com'
