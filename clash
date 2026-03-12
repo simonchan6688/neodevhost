@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-03-11
+# Last update: 2026-03-12
 #
-# Number of domains: 105185
+# Number of domains: 105192
 #
 #=====================================
 payload:
@@ -7137,6 +7137,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -26903,6 +26904,7 @@ payload:
   - 'dialer.cdn.cootekservice.com'
   - 'dialer.leads360.com'
   - 'dialer.velocify.com'
+  - 'dialling-abutory.com'
   - 'dialog.dqs.de'
   - 'dialog.losberger.com'
   - 'dialogtech.com'
@@ -29477,6 +29479,7 @@ payload:
   - 'ea.mondial-assistance.fr'
   - 'ea.mydailyhotel.com'
   - 'ea.mywarner.warnerbros.fr'
+  - 'ea.natiloo.com'
   - 'ea.netvox-assurances.com'
   - 'ea.nextseguros.es'
   - 'ea.nomade-aventure.com'
@@ -30886,6 +30889,7 @@ payload:
   - 'email-ap.jll.com.my'
   - 'email-ap.jll.com.ph'
   - 'email-ap.jll.com.sg'
+  - 'email-ap.jll.com.tw'
   - 'email-ap.jll.de'
   - 'email-ap.jll.fi'
   - 'email-ap.jll.fr'
@@ -43034,6 +43038,7 @@ payload:
   - 'images.informador.davivienda.com'
   - 'images.information.thmarch.co.uk'
   - 'images.inport.princess.com'
+  - 'images.insight.extrahop.com'
   - 'images.insight.intrado.com'
   - 'images.insurance.leavitt.com'
   - 'images.integrity.synopsys.com'
@@ -56390,7 +56395,7 @@ payload:
   - 'metric.1035thearrow.com'
   - 'metric.4imprint.com'
   - 'metric.alexandani.com'
-  - 'metric.angieslisactive.tc.skysrt.com'
+  - 'metric.angieslist.com'
   - 'metric.armstrong.com'
   - 'metric.armstrongceilings.com'
   - 'metric.asos.com'
@@ -59778,6 +59783,7 @@ payload:
   - 'mvquiema.xyz'
   - 'mvqwxwnmwhbzb.website'
   - 'mvrnxfxtvsuix.website'
+  - 'mvrptblhcuehu.website'
   - 'mvruniszlmmjz.website'
   - 'mvsdejyifaudl.space'
   - 'mvstmjowjtxij.site'
@@ -71280,6 +71286,7 @@ payload:
   - 'rasurescaribou.com'
   - 'ratajdmedasrd.online'
   - 'rate2self.com'
+  - 'rate8deny.com'
   - 'ratebilaterdea.com'
   - 'ratedeaddisk.com'
   - 'raterestrict.com'
@@ -86470,7 +86477,6 @@ payload:
   - 't.clic2buy.com'
   - 't.cofcsports.com'
   - 't.collinscenterforthearts.com'
-  - 't.com'
   - 't.cometlytrack.com'
   - 't.commandbar.com'
   - 't.comms.thetimes.co.uk'
@@ -103684,6 +103690,7 @@ payload:
   - 'yx-ads6.com'
   - 'yxajqojsxkdaa.site'
   - 'yxbilyptbkhza.space'
+  - 'yxbjliiqxlnxw.website'
   - 'yxcpm.com'
   - 'yxcxheuw.net'
   - 'yxduqpodjkhks.space'

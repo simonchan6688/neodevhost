@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-03-11
+# Last update: 2026-03-12
 #
-# Number of domains: 105185
+# Number of domains: 105192
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -7136,6 +7136,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -26902,6 +26903,7 @@
 0.0.0.0  dialer.cdn.cootekservice.com
 0.0.0.0  dialer.leads360.com
 0.0.0.0  dialer.velocify.com
+0.0.0.0  dialling-abutory.com
 0.0.0.0  dialog.dqs.de
 0.0.0.0  dialog.losberger.com
 0.0.0.0  dialogtech.com
@@ -29476,6 +29478,7 @@
 0.0.0.0  ea.mondial-assistance.fr
 0.0.0.0  ea.mydailyhotel.com
 0.0.0.0  ea.mywarner.warnerbros.fr
+0.0.0.0  ea.natiloo.com
 0.0.0.0  ea.netvox-assurances.com
 0.0.0.0  ea.nextseguros.es
 0.0.0.0  ea.nomade-aventure.com
@@ -30885,6 +30888,7 @@
 0.0.0.0  email-ap.jll.com.my
 0.0.0.0  email-ap.jll.com.ph
 0.0.0.0  email-ap.jll.com.sg
+0.0.0.0  email-ap.jll.com.tw
 0.0.0.0  email-ap.jll.de
 0.0.0.0  email-ap.jll.fi
 0.0.0.0  email-ap.jll.fr
@@ -43033,6 +43037,7 @@
 0.0.0.0  images.informador.davivienda.com
 0.0.0.0  images.information.thmarch.co.uk
 0.0.0.0  images.inport.princess.com
+0.0.0.0  images.insight.extrahop.com
 0.0.0.0  images.insight.intrado.com
 0.0.0.0  images.insurance.leavitt.com
 0.0.0.0  images.integrity.synopsys.com
@@ -56389,7 +56394,7 @@
 0.0.0.0  metric.1035thearrow.com
 0.0.0.0  metric.4imprint.com
 0.0.0.0  metric.alexandani.com
-0.0.0.0  metric.angieslisactive.tc.skysrt.com
+0.0.0.0  metric.angieslist.com
 0.0.0.0  metric.armstrong.com
 0.0.0.0  metric.armstrongceilings.com
 0.0.0.0  metric.asos.com
@@ -59777,6 +59782,7 @@
 0.0.0.0  mvquiema.xyz
 0.0.0.0  mvqwxwnmwhbzb.website
 0.0.0.0  mvrnxfxtvsuix.website
+0.0.0.0  mvrptblhcuehu.website
 0.0.0.0  mvruniszlmmjz.website
 0.0.0.0  mvsdejyifaudl.space
 0.0.0.0  mvstmjowjtxij.site
@@ -71279,6 +71285,7 @@
 0.0.0.0  rasurescaribou.com
 0.0.0.0  ratajdmedasrd.online
 0.0.0.0  rate2self.com
+0.0.0.0  rate8deny.com
 0.0.0.0  ratebilaterdea.com
 0.0.0.0  ratedeaddisk.com
 0.0.0.0  raterestrict.com
@@ -86469,7 +86476,6 @@
 0.0.0.0  t.clic2buy.com
 0.0.0.0  t.cofcsports.com
 0.0.0.0  t.collinscenterforthearts.com
-0.0.0.0  t.com
 0.0.0.0  t.cometlytrack.com
 0.0.0.0  t.commandbar.com
 0.0.0.0  t.comms.thetimes.co.uk
@@ -103683,6 +103689,7 @@
 0.0.0.0  yx-ads6.com
 0.0.0.0  yxajqojsxkdaa.site
 0.0.0.0  yxbilyptbkhza.space
+0.0.0.0  yxbjliiqxlnxw.website
 0.0.0.0  yxcpm.com
 0.0.0.0  yxcxheuw.net
 0.0.0.0  yxduqpodjkhks.space
