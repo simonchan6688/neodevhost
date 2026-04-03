@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-04-02
+# Last update: 2026-04-03
 #
-# Number of domains: 107962
+# Number of domains: 107963
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -6990,6 +6990,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -7302,7 +7303,7 @@
 0.0.0.0  ad.us.sinaimg.cn
 0.0.0.0  ad.v3mh.com
 0.0.0.0  ad.video-mech.ru
-0.0.0.0  ad.video.51togicactive.tc.skysrt.com
+0.0.0.0  ad.video.51togic.com
 0.0.0.0  ad.vryeye.com
 0.0.0.0  ad.weibo.com
 0.0.0.0  ad.weixin.qq.com

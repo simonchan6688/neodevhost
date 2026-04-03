@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-04-02
+# Last update: 2026-04-03
 #
-# Number of domains: 107962
+# Number of domains: 107963
 #
 #=====================================
 payload:
@@ -6991,6 +6991,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -7303,7 +7304,7 @@ payload:
   - 'ad.us.sinaimg.cn'
   - 'ad.v3mh.com'
   - 'ad.video-mech.ru'
-  - 'ad.video.51togicactive.tc.skysrt.com'
+  - 'ad.video.51togic.com'
   - 'ad.vryeye.com'
   - 'ad.weibo.com'
   - 'ad.weixin.qq.com'
