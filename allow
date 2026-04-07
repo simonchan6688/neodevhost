@@ -175,6 +175,7 @@
 9Anime.to
 9gag.com
 9to5google.com
+RZDmazon.photos
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -205,6 +206,7 @@ a.stat.xiaomi.com
 a.tiles.mapbox.com
 a.union.mi.com
 a0.app.xiaomi.com
+a0.client-channel.google.com
 a1.adform.net
 a1.mzstatic.com
 a1.sndcdn.com
@@ -978,7 +980,6 @@ amazon.pet
 amazon.ph
 amazon.photo
 amazon.photography
-amazon.photos
 amazon.physio
 amazon.pics
 amazon.pictures
@@ -1084,7 +1085,6 @@ amazon.tc
 amazon.team
 amazon.tech
 amazon.technology
-amazon.tel
 amazon.tennis
 amazon.tf
 amazon.theater
@@ -1165,7 +1165,7 @@ aml-gateway.cloud.vimeo.com
 amos.alicdn.com
 amp-api-edge.apps.apple.com
 amp-api-edge.apps.apple.com.edgekey.net
-amp-reddit-com.cdn.ampproject.org
+amp-reddit-com.c.com
 amp.businessinsider.com
 amp.dailycaller.com
 amp.flipboard.com
@@ -3552,6 +3552,7 @@ dmd.metaservices.microsoft.com
 dmm.com
 dmp.adform.net
 dms.ospserver.net
+dn.ampproject.org
 dn.ospserver.net
 dn.se
 dnaindia.com
@@ -8571,6 +8572,7 @@ scontent-ort2-2.xx.fbcdn.net
 scontent-yyz1-1.xx.fbcdn.net
 scontent.cdninstagram.com
 scontent.fgdl5-1.fna.fbcdn.net
+scontent.xx.f360.cn
 scontent.xx.fbcdn.net
 scorito.com
 screenshots.firefox.com
@@ -11575,7 +11577,6 @@ www.nanopi.org
 www.nanopool.org
 www.nanorep.com
 www.napisy24.pl
-www.narcity.com.cdn.rebelmouse.com
 www.nationalgeographic.com
 www.nautilus.ru
 www.naver.com
@@ -12187,7 +12188,7 @@ zh-cn.about.flipboard.com
 zh-hk.about.flipboard.com
 zh-tw.gravatar.com
 zh-tw.twitch.tv
-zh.ifixit.com
+zh.ifixit.combcdn.net
 zh.wikipedia.com
 zhaopin.com
 zhibo.mi.com
