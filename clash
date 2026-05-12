@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-05-11
+# Last update: 2026-05-12
 #
-# Number of domains: 106035
+# Number of domains: 106034
 #
 #=====================================
 payload:
@@ -7198,6 +7198,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -11459,7 +11460,7 @@ payload:
   - 'angsrvr.com'
   - 'anguishaddition.com'
   - 'anguishedphone.pro'
-  - 'angularpoppyroactive.tc.skysrt.com'
+  - 'angularpoppyrobbing.com'
   - 'anhj4arn4.com'
   - 'anhwasdohccp.com'
   - 'anigo.to'
@@ -15053,7 +15054,6 @@ payload:
   - 'bbigjasjgqkkq.website'
   - 'bbiklzuzmsylk.online'
   - 'bbinfpwtwdhpw.website'
-  - 'bbing.com'
   - 'bbipawjflxpct.site'
   - 'bbjdyujagjkii.space'
   - 'bbjnaeeppytdq.com'
@@ -104812,7 +104812,6 @@ payload:
   - 'zeegewaiphegle.net'
   - 'zeegreehoanet.net'
   - 'zeekaihu.net'
-  - 'zeelooshashey.net'
   - 'zeemauwoufug.net'
   - 'zeepartners.com'
   - 'zeepoostey.net'
