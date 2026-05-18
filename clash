@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-05-17
+# Last update: 2026-05-18
 #
-# Number of domains: 106623
+# Number of domains: 106624
 #
 #=====================================
 payload:
@@ -7226,6 +7226,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -23284,7 +23285,7 @@ payload:
   - 'cubchannel.com'
   - 'cube-78.com'
   - 'cubeglobal.net'
-  - 'cubepins.active.tc.skysrt.com'
+  - 'cubepins.com'
   - 'cuberoot.co'
   - 'cubicinjustice.com'
   - 'cucaido.abphotos.link'
