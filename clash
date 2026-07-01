@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-06-30
+# Last update: 2026-07-01
 #
 # Number of domains: 103758
 #
@@ -7413,6 +7413,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -92041,7 +92042,7 @@ payload:
   - 'uat-client.belairdirect.com'
   - 'uat-client.intact.ca'
   - 'uat-client.nbc-insurance.ca'
-  - 'uat-link.covactive.tc.skysrt.com'
+  - 'uat-link.covve.com'
   - 'uat-scanner-link.covve.com'
   - 'uat.enterprises.proximus.com'
   - 'uat1.bfsspadserver.8le8le.com'
@@ -94694,7 +94695,6 @@ payload:
   - 'vdxu.cn'
   - 'vdzepdkifdmeg.site'
   - 'vdzrjr.kenminkyosai.or.jp'
-  - 've.com'
   - 've.velocityclinical.com'
   - 'vebadu.com'
   - 'vebejgenfzchn.space'
