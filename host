@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-08-05
+# Last update: 2026-08-06
 #
-# Number of domains: 102363
+# Number of domains: 102340
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -7464,6 +7464,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -10455,6 +10456,7 @@
 0.0.0.0  al-smetrics.vizio.com
 0.0.0.0  al.airtel.in
 0.0.0.0  al.autohome.com.cn
+0.0.0.0  al.com
 0.0.0.0  al.newxue.com
 0.0.0.0  al.test.airtel.in
 0.0.0.0  al1n6v56m.com
@@ -24239,7 +24241,6 @@
 0.0.0.0  d2fbvay81k4ji3.cloudfront.net
 0.0.0.0  d2fhrdu08h12cc.cloudfront.net
 0.0.0.0  d2fmtc7u4dp7b2.cloudfront.net
-0.0.0.0  d2focgxak1cn74.cloudfront.net
 0.0.0.0  d2foi16y3n0s3e.cloudfront.net
 0.0.0.0  d2fsfacjuqds81.cloudfront.net
 0.0.0.0  d2fw3s7rfepszt.cloudfront.net
@@ -25166,7 +25167,6 @@
 0.0.0.0  data.dreamland.be
 0.0.0.0  data.e.adobe.com
 0.0.0.0  data.e.lotteryoffice.com.au
-0.0.0.0  data.e.ringcentral.com
 0.0.0.0  data.e.visionmondiale.ca
 0.0.0.0  data.e.worldvision.ca
 0.0.0.0  data.ear.nespresso.com
@@ -25879,7 +25879,6 @@
 0.0.0.0  dd2.freep.cn
 0.0.0.0  dd268fdaa5.com
 0.0.0.0  dd6ym5in4ovm3.cloudfront.net
-0.0.0.0  dd6zx4ibq538k.cloudfront.net
 0.0.0.0  dd713.bj.bcebos.com
 0.0.0.0  dd81bp3qbj.com
 0.0.0.0  dd9l0474.de
@@ -26631,7 +26630,6 @@
 0.0.0.0  dhdebdmvzljbk.site
 0.0.0.0  dhduc.com
 0.0.0.0  dheblxw.com
-0.0.0.0  dhedddbuoauaj.site
 0.0.0.0  dheheagbmhdfk.space
 0.0.0.0  dhenr54m.com
 0.0.0.0  dheyitpmyheck.space
@@ -26834,7 +26832,6 @@
 0.0.0.0  digital2cloud.com
 0.0.0.0  digitaladvertisingalliance.org
 0.0.0.0  digitaladvisor.dk
-0.0.0.0  digitalaudience.io
 0.0.0.0  digitalblend.net
 0.0.0.0  digitaldateroom.online
 0.0.0.0  digitaldesire.com
@@ -27485,7 +27482,6 @@
 0.0.0.0  dl.crazyporn.xxx
 0.0.0.0  dl.dinngo.co
 0.0.0.0  dl.dzqzd.com
-0.0.0.0  dl.episerver.net
 0.0.0.0  dl.flipagram.com
 0.0.0.0  dl.flipkartwholesale.com
 0.0.0.0  dl.g.youku.com
@@ -28201,7 +28197,6 @@
 0.0.0.0  dr6su5ow3i7eo.cloudfront.net
 0.0.0.0  dr6vcclmzwk74.cloudfront.net
 0.0.0.0  dr7dsx6u9.com
-0.0.0.0  dr8pk6ovub897.cloudfront.net
 0.0.0.0  dr999.cc
 0.0.0.0  dra.com.ve
 0.0.0.0  drab-week.com
@@ -28241,7 +28236,6 @@
 0.0.0.0  drctcldff.com
 0.0.0.0  drd.hauchi.com.tw
 0.0.0.0  drda5yf9kgz5p.cloudfront.net
-0.0.0.0  drdevelopmentcolor.com
 0.0.0.0  drdgpyhytqtnh.website
 0.0.0.0  drdwy.com
 0.0.0.0  dreadedrevisablevest.com
@@ -29112,7 +29106,7 @@
 0.0.0.0  dynbanners.netlify.app
 0.0.0.0  dynga.pl
 0.0.0.0  dynove.xyz
-0.0.0.0  dynpaa.coactive.tc.skysrt.com
+0.0.0.0  dynpaa.com
 0.0.0.0  dynspt.com
 0.0.0.0  dynsrv.wps.cn
 0.0.0.0  dynsrvtyu.com
@@ -29672,7 +29666,6 @@
 0.0.0.0  ebis.lululun.com
 0.0.0.0  ebis.macchialabel.com
 0.0.0.0  ebis.makeshop.jp
-0.0.0.0  ebis.mucuna.co.jp
 0.0.0.0  ebis.n-pri.jp
 0.0.0.0  ebis.ne.jp
 0.0.0.0  ebis.nomu-silica.jp
@@ -30653,7 +30646,6 @@
 0.0.0.0  elqtrk.intel.it
 0.0.0.0  elqtrk.intel.la
 0.0.0.0  elqtrk.intel.pl
-0.0.0.0  elqtrk.intel.ru
 0.0.0.0  elqtrk.intel.sg
 0.0.0.0  elqtrk.intelrealsense.com
 0.0.0.0  elqtrk.morningstar.be
@@ -30774,7 +30766,6 @@
 0.0.0.0  email-cm.jll.ca
 0.0.0.0  email-cm.jll.cl
 0.0.0.0  email-cm.jll.co.id
-0.0.0.0  email-cm.jll.co.il
 0.0.0.0  email-cm.jll.co.uk
 0.0.0.0  email-cm.jll.com.au
 0.0.0.0  email-cm.jll.com.hk
@@ -33925,7 +33916,6 @@
 0.0.0.0  fjmuoavraiszj.space
 0.0.0.0  fjortk.braun-hamburg.com
 0.0.0.0  fjowkvxn.com
-0.0.0.0  fjpimtjjtdobs.website
 0.0.0.0  fjpmykjfmporlit.com
 0.0.0.0  fjpopxgyfrlxvc.com
 0.0.0.0  fjpqxokekvgak.website
@@ -36834,7 +36824,6 @@
 0.0.0.0  glazingretentionupcoming.com
 0.0.0.0  glb12pkgr.com
 0.0.0.0  glb21pkgr.com
-0.0.0.0  glbgox.djoser.de
 0.0.0.0  glbtracker.com
 0.0.0.0  glbtrk.com
 0.0.0.0  glcdzojthfbaw.site
@@ -46555,7 +46544,6 @@
 0.0.0.0  jvwuejwrelcst.space
 0.0.0.0  jvxlfrzupukvh.online
 0.0.0.0  jvxzqiwzgxglg.website
-0.0.0.0  jvytfjxamlfkr.online
 0.0.0.0  jvzlvdsnlcbhd.online
 0.0.0.0  jvzlya.benesse.ne.jp
 0.0.0.0  jvzogvirjbaly.site
@@ -48360,7 +48348,6 @@
 0.0.0.0  landing-trinotar.wolterskluwer.com
 0.0.0.0  landing-winra.wolterskluwer.com
 0.0.0.0  landing.clubcar.com
-0.0.0.0  landing.computershare.com
 0.0.0.0  landing.e.columbuscrew.com
 0.0.0.0  landing.georgeson.com
 0.0.0.0  landing.kccllc.com
@@ -50688,7 +50675,6 @@
 0.0.0.0  log.china.cn
 0.0.0.0  log.cizion.com
 0.0.0.0  log.cmpassport.com
-0.0.0.0  log.codemarketing.cloud
 0.0.0.0  log.cognex.com
 0.0.0.0  log.collectaction.com
 0.0.0.0  log.cookieyes.com
@@ -53719,7 +53705,6 @@
 0.0.0.0  marketing.sedgwick.com
 0.0.0.0  marketing.seemonterey.com
 0.0.0.0  marketing.self-helpfcu.org
-0.0.0.0  marketing.sensoft.ca
 0.0.0.0  marketing.sensysgatso.com
 0.0.0.0  marketing.sentinelgroup.com
 0.0.0.0  marketing.sentirlabs.com
@@ -55964,7 +55949,6 @@
 0.0.0.0  metrics.onshape.com
 0.0.0.0  metrics.optimum.net
 0.0.0.0  metrics.optum.com
-0.0.0.0  metrics.oreck.com
 0.0.0.0  metrics.oreilly.com
 0.0.0.0  metrics.orlandofuntickets.com
 0.0.0.0  metrics.pacsun.com
@@ -61893,7 +61877,6 @@
 0.0.0.0  omns.crackle.com
 0.0.0.0  omns.murdoch.edu.au
 0.0.0.0  omoevcozeezhg.one
-0.0.0.0  omoonsih.net
 0.0.0.0  omoscmh.studio
 0.0.0.0  omoshzdmoplzs.online
 0.0.0.0  omoxxgrsttwsz.online
@@ -62073,7 +62056,6 @@
 0.0.0.0  onioncomic.com
 0.0.0.0  oniqjeyyebgmv.online
 0.0.0.0  oniryidjetapo.online
-0.0.0.0  oniyyrgezoanj.website
 0.0.0.0  onjhecwdboxld.online
 0.0.0.0  onjjbn.koffiemarkt.be
 0.0.0.0  onjmsj.sumai-surfin.com
@@ -65289,7 +65271,6 @@
 0.0.0.0  plexop.net
 0.0.0.0  plexworks.de
 0.0.0.0  plfavetxktgvw.space
-0.0.0.0  plgfbhohqpaiq.website
 0.0.0.0  plgtxprvrgume.site
 0.0.0.0  pliablepeised.shop
 0.0.0.0  pliantdummyexasperation.com
@@ -65753,12 +65734,10 @@
 0.0.0.0  pos.baidu.com
 0.0.0.0  poseunprofessionalspecific.com
 0.0.0.0  posewardenreligious.com
-0.0.0.0  posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com
 0.0.0.0  posgrados.unisabana.edu.co
 0.0.0.0  poshmixture.pro
 0.0.0.0  posicionamientonatural.es
 0.0.0.0  position66.top
-0.0.0.0  positivelong.com
 0.0.0.0  positivelyassertappreciation.com
 0.0.0.0  positivelysketchyenlargement.com
 0.0.0.0  positivenetwork.pro
@@ -71181,7 +71160,6 @@
 0.0.0.0  rrlnmohzscihu.space
 0.0.0.0  rrlpfsdammzii.site
 0.0.0.0  rrobbybmkwjww.top
-0.0.0.0  rrpaafci9i.com
 0.0.0.0  rrpcjhtacwgki.space
 0.0.0.0  rrpsjnegulocc.site
 0.0.0.0  rrpuoifwzxgkh.site
@@ -89792,7 +89770,6 @@
 0.0.0.0  trk.go.ingrammicro.com
 0.0.0.0  trk.go.ingrammicrocloud.com
 0.0.0.0  trk.greenbuildexpo.com
-0.0.0.0  trk.hankisonair.com
 0.0.0.0  trk.hartell.com
 0.0.0.0  trk.haskel.com
 0.0.0.0  trk.hibon.com
