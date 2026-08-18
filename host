@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-08-17
+# Last update: 2026-08-18
 #
 # Number of domains: 100679
 #
@@ -7441,6 +7441,7 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
+0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -67565,7 +67566,6 @@
 0.0.0.0  r.apkpure.net
 0.0.0.0  r.atlasearth.com
 0.0.0.0  r.bbci.co.uk
-0.0.0.0  r.com.cn
 0.0.0.0  r.cvglobal.co
 0.0.0.0  r.dmp.sina.cn
 0.0.0.0  r.dmp.sina.com.cn
@@ -96125,7 +96125,7 @@
 0.0.0.0  www.adfancy.com.cn
 0.0.0.0  www.adm668.com
 0.0.0.0  www.admaji.com
-0.0.0.0  www.admasteactive.tc.skysrt.com
+0.0.0.0  www.admaster.com.cn
 0.0.0.0  www.adpolestar.net
 0.0.0.0  www.ads80.com
 0.0.0.0  www.adsage.cn
