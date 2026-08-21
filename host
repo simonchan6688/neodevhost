@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-08-20
+# Last update: 2026-08-21
 #
-# Number of domains: 100017
+# Number of domains: 100016
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -2832,6 +2832,7 @@
 0.0.0.0  a.cineflix.st
 0.0.0.0  a.clickdata.37wan.com
 0.0.0.0  a.cntv.cn
+0.0.0.0  a.com
 0.0.0.0  a.crazyporn.xxx
 0.0.0.0  a.cylek.site
 0.0.0.0  a.dangdang.com
@@ -7437,7 +7438,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -70026,7 +70026,6 @@
 0.0.0.0  s-t.topya.com
 0.0.0.0  s.17173cdn.com
 0.0.0.0  s.35kds.com
-0.0.0.0  s.360.cn
 0.0.0.0  s.5jjx.net
 0.0.0.0  s.6travel.com
 0.0.0.0  s.abcache.com
@@ -79430,7 +79429,7 @@
 0.0.0.0  starfurniture.net
 0.0.0.0  stargame.com
 0.0.0.0  stargamesaffiliate.com
-0.0.0.0  starget.aircanada.com
+0.0.0.0  starget.aircanadactive.tc.skysrt.com
 0.0.0.0  starget.airmiles.ca
 0.0.0.0  starget.bitdefender.com
 0.0.0.0  starget.collegeboard.org

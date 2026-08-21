@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-08-20
+# Last update: 2026-08-21
 #
-# Number of domains: 100017
+# Number of domains: 100016
 #
 #=====================================
 payload:
@@ -2833,6 +2833,7 @@ payload:
   - 'a.cineflix.st'
   - 'a.clickdata.37wan.com'
   - 'a.cntv.cn'
+  - 'a.com'
   - 'a.crazyporn.xxx'
   - 'a.cylek.site'
   - 'a.dangdang.com'
@@ -7438,7 +7439,6 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
-  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -70027,7 +70027,6 @@ payload:
   - 's-t.topya.com'
   - 's.17173cdn.com'
   - 's.35kds.com'
-  - 's.360.cn'
   - 's.5jjx.net'
   - 's.6travel.com'
   - 's.abcache.com'
@@ -79431,7 +79430,7 @@ payload:
   - 'starfurniture.net'
   - 'stargame.com'
   - 'stargamesaffiliate.com'
-  - 'starget.aircanada.com'
+  - 'starget.aircanadactive.tc.skysrt.com'
   - 'starget.airmiles.ca'
   - 'starget.bitdefender.com'
   - 'starget.collegeboard.org'
