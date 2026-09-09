@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-09-08
+# Last update: 2026-09-09
 #
-# Number of domains: 97751
+# Number of domains: 97750
 #
 #=====================================
 0.0.0.0  0.myikas.com
@@ -7347,7 +7347,6 @@
 0.0.0.0  active-trk7.com
 0.0.0.0  active.baofeng.com
 0.0.0.0  active.sangfor.com
-0.0.0.0  active.tc.skysrt.com
 0.0.0.0  active24stats.nl
 0.0.0.0  activeconversion.com
 0.0.0.0  activedancer.com
@@ -40257,7 +40256,7 @@
 0.0.0.0  images.em.groupon.com
 0.0.0.0  images.em.tdgarden.com
 0.0.0.0  images.email.air-worldwide.com
-0.0.0.0  images.email.fico.com
+0.0.0.0  images.email.fico.active.tc.skysrt.com
 0.0.0.0  images.email.hkaf.org
 0.0.0.0  images.emails.bokfinancial.com
 0.0.0.0  images.emails.ipcmedia.co.uk
