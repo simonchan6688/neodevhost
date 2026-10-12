@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-10-11
+# Last update: 2026-10-12
 #
-# Number of domains: 101482
+# Number of domains: 101468
 #
 #=====================================
 payload:
@@ -7454,7 +7454,6 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
-  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -12176,7 +12175,7 @@ payload:
   - 'apistaging.airpush.com'
   - 'apitiny.net'
   - 'apiv4.anythinktech.com'
-  - 'apiwmda.58.com.cn'
+  - 'apiwmactive.tc.skysrt.com'
   - 'apiyd.my91app.com'
   - 'apizqaczw.com'
   - 'apk.sky.fs.skysrt.com'
@@ -24732,6 +24731,7 @@ payload:
   - 'd9yk47of1efyy.cloudfront.net'
   - 'd9zx24n0d.com'
   - 'da-ads.com'
+  - 'da.58.com.cn'
   - 'da.anythinktech.com'
   - 'da.bodenhaus.de'
   - 'da.daji.com'
@@ -30401,7 +30401,6 @@ payload:
   - 'eloqua.soprasteria.co.uk'
   - 'eloqua.syslog-ng.com'
   - 'eloqua.teknos.com'
-  - 'eloqua.ufm.edu'
   - 'eloqua.undergraduateexam.in'
   - 'eloqua.upstreamintel.com'
   - 'eloquaimages.e.abb.com'
@@ -34092,7 +34091,6 @@ payload:
   - 'footbathmockerpurse.com'
   - 'footerfont.com'
   - 'footfulthirsty.com'
-  - 'footholdmummifytwig.com'
   - 'footnote.com'
   - 'footprintdns.com'
   - 'footprinthighamaze.com'
@@ -34717,7 +34715,6 @@ payload:
   - 'frztrk.beaute-test.com'
   - 'frztrk.netmums.com'
   - 'fs-client-logger.herokuapp.com'
-  - 'fs-loader.com'
   - 'fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com'
   - 'fsaaianvapxeh.site'
   - 'fsalfrwdr.com'
@@ -37308,7 +37305,6 @@ payload:
   - 'goblin.hupu.com'
   - 'goblinindex.com'
   - 'gobxihrdqncew.website'
-  - 'gocertiport.pearsonvue.com'
   - 'goclicknext.com'
   - 'gocmmwiotoiwp.online'
   - 'gocuxy.baycrews.jp'
@@ -42701,7 +42697,6 @@ payload:
   - 'info.gluware.com'
   - 'info.go.lorainccc.edu'
   - 'info.goagilix.com'
-  - 'info.goegyptian.com'
   - 'info.goldmine.com'
   - 'info.gomlab.com'
   - 'info.gravie.com'
@@ -43168,7 +43163,6 @@ payload:
   - 'informatie.mail.nn.nl'
   - 'information.cleanservices.co.uk'
   - 'information.clubcorp.com'
-  - 'information.cma-cgm.com'
   - 'information.fi360.com'
   - 'information.frbcommunications.org'
   - 'information.lgcns.com'
@@ -65998,7 +65992,6 @@ payload:
   - 'psxc6fapn.com'
   - 'psxzadkhsaevp.space'
   - 'psychedelicarithmetic.com'
-  - 'psychiatricmagnet.com'
   - 'psychologylosttraveling.com'
   - 'pszggsvbtzzaa.space'
   - 'pt-trx.com'
@@ -68735,7 +68728,6 @@ payload:
   - 'redirectdemoqpay.2c2p.com'
   - 'redirecthitnspin.com'
   - 'redistats.com'
-  - 'redistedi.com'
   - 'redlightcenter.com'
   - 'redlion.actonservice.com'
   - 'redmillgroup.com'
@@ -78750,7 +78742,6 @@ payload:
   - 'somni.vikingrivercruises.com'
   - 'somni.vrk.de'
   - 'somni.westernasset.com'
-  - 'somni.yellowpages.com'
   - 'somnistats.jetblue.com'
   - 'somnit.blinkfitness.com'
   - 'somnit.equinox.com'
@@ -82618,7 +82609,6 @@ payload:
   - 'swedephotocopy.com'
   - 'sweepfluent.com'
   - 'sweepia.com'
-  - 'sweeps.la-z-boy.com'
   - 'sweeterbircher.shop'
   - 'sweetgirlsroom.biz'
   - 'sweetgum.io'
@@ -88467,7 +88457,6 @@ payload:
   - 'trail.thomsonreuters.co.nz'
   - 'trail.thomsonreuters.co.uk'
   - 'trail.thomsonreuters.com'
-  - 'trail.thomsonreuters.com.au'
   - 'trail.thomsonreuters.com.br'
   - 'trail.thomsonreuters.com.hk'
   - 'trail.thomsonreuters.com.my'
@@ -88962,7 +88951,6 @@ payload:
   - 'trk.mddionline.com'
   - 'trk.mdeawards.com'
   - 'trk.meetingsnet.com'
-  - 'trk.metronet.com'
   - 'trk.metronetbusiness.com'
   - 'trk.microsyringes.com'
   - 'trk.midamericanenergy.com'
@@ -93162,7 +93150,6 @@ payload:
   - 'vistarsagency.com'
   - 'visualcommservices.com'
   - 'visualdna.com'
-  - 'visualrevenue.com'
   - 'visualscience.external.bbc.co.uk'
   - 'visvn.cn'
   - 'visvn.com'
@@ -95641,7 +95628,6 @@ payload:
   - 'wishesantennarightfully.com'
   - 'wishfulresemble.com'
   - 'wishfulvineslight.com'
-  - 'wishinghonourederratic.com'
   - 'wishjus.com'
   - 'wispycity.com'
   - 'wissen.sage.de'
