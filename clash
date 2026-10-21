@@ -6,7 +6,7 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-10-20
+# Last update: 2026-10-21
 #
 # Number of domains: 103347
 #
@@ -7463,6 +7463,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -40017,7 +40018,6 @@ payload:
   - 'hintbreakfastrather.com'
   - 'hinwwezapkyiu.website'
   - 'hiobplukootgn.site'
-  - 'hionevents.com'
   - 'hiorange1.jobui.com'
   - 'hip-97166b.com'
   - 'hipals.com'
@@ -90345,7 +90345,7 @@ payload:
   - 'trk.fensi.plus'
   - 'trk.fieldandmain.com'
   - 'trk.fieldandmaininsurance.com'
-  - 'trk.findfasactive.tc.skysrt.com'
+  - 'trk.findfashionevents.com'
   - 'trk.fintechfutures.com'
   - 'trk.flora.com'
   - 'trk.flora.cz'
