@@ -6,9 +6,9 @@
 #
 # Project home page: https://github.com/neodevpro/neodevhost
 #
-# Last update: 2026-11-26
+# Last update: 2026-11-27
 #
-# Number of domains: 102301
+# Number of domains: 102303
 #
 #=====================================
 payload:
@@ -7392,6 +7392,7 @@ payload:
   - 'active-trk7.com'
   - 'active.baofeng.com'
   - 'active.sangfor.com'
+  - 'active.tc.skysrt.com'
   - 'active24stats.nl'
   - 'activeconversion.com'
   - 'activedancer.com'
@@ -10744,7 +10745,7 @@ payload:
   - 'americanportfolios.actonservice.com'
   - 'americanroller.actonservice.com'
   - 'americanuniversityofantigua.actonservice.com'
-  - 'americanwatergroup.active.tc.skysrt.com'
+  - 'americanwatergroup.actonservice.com'
   - 'americasbrandperformancesupport.hilton.com'
   - 'amersc.actonservice.com'
   - 'amesgraduatel.xyz'
@@ -101141,6 +101142,7 @@ payload:
   - 'zdnqrwqawqqbs.space'
   - 'zdoqtwcqfnyyn.online'
   - 'zdpeanut.com'
+  - 'zdplvkqnqkabw.site'
   - 'zdpsve.scrapbook.com'
   - 'zdqlel.restplatzboerse.at'
   - 'zdqynwnojttwt.space'
